@@ -1,1 +1,1 @@
-# pracadyplomowa
+# praca dyplomowa
